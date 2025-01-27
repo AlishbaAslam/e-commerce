@@ -30,6 +30,7 @@ const FeaturedProducts = () => {
               className="rounded-[6px] w-[312px] h-[280px] xl:w-[312px] xl:h-[280px] lg:w-[312px] lg:h-[240px]"
               src={product1}
               alt="product"
+              quality={100}
             />
             <div className="h-[51px] flex gap-[10px] items-center">
               <div className="w-[256px] h-[51px] flex flex-col justify-between">
@@ -55,6 +56,7 @@ const FeaturedProducts = () => {
               className="rounded-[6px] w-[312px] h-[280px] xl:w-[312px] xl:h-[280px] lg:w-[312px] lg:h-[240px]"
               src={product2}
               alt="product"
+              quality={100}
             />
             <div className="h-[51px] flex gap-[10px] items-center">
               <div className="w-[256px] h-[51px] flex flex-col justify-between">
@@ -83,6 +85,7 @@ const FeaturedProducts = () => {
               className="rounded-[6px] w-[312px] h-[280px] xl:w-[312px] xl:h-[280px] lg:w-[312px] lg:h-[240px]"
               src={product3}
               alt="product"
+              quality={100}
             />
             <div className="h-[51px] flex gap-[10px] items-center">
               <div className="w-[256px] h-[51px] flex flex-col justify-between">
@@ -105,6 +108,7 @@ const FeaturedProducts = () => {
               className="rounded-[6px] w-[312px] h-[280px] xl:w-[312px] xl:h-[280px] lg:w-[312px] lg:h-[240px]"
               src={product4}
               alt="product"
+              quality={100}
             />
             <div className="h-[51px] flex gap-[10px] items-center">
               <div className="w-[256px] h-[51px] flex flex-col justify-between">
@@ -129,6 +133,7 @@ const FeaturedProducts = () => {
               className="rounded-[6px] w-[312px] h-[280px] xl:w-[312px] xl:h-[280px] lg:w-[312px] lg:h-[240px]"
               src={chair1}
               alt="product"
+              quality={100}
             />
             <div className="h-[51px] flex gap-[10px] items-center">
               <div className="w-[256px] h-[51px] flex flex-col justify-between">
@@ -154,6 +159,7 @@ const FeaturedProducts = () => {
               className="rounded-[6px] w-[312px] h-[280px] xl:w-[312px] xl:h-[280px] lg:w-[312px] lg:h-[240px]"
               src={item4}
               alt="product"
+              quality={100}
             />
             <div className="h-[51px] flex gap-[10px] items-center">
               <div className="w-[256px] h-[51px] flex flex-col justify-between">
@@ -182,6 +188,7 @@ const FeaturedProducts = () => {
               className="rounded-[6px] w-[312px] h-[280px] xl:w-[312px] xl:h-[280px] lg:w-[312px] lg:h-[240px]"
               src={item5}
               alt="product"
+              quality={100}
             />
             <div className="h-[51px] flex gap-[10px] items-center">
               <div className="w-[256px] h-[51px] flex flex-col justify-between">
@@ -204,6 +211,7 @@ const FeaturedProducts = () => {
               className="rounded-[6px] w-[312px] h-[280px] xl:w-[312px] xl:h-[280px] lg:w-[312px] lg:h-[240px]"
               src={product1}
               alt="product"
+              quality={100}
             />
             <div className="h-[51px] flex gap-[10px] items-center">
               <div className="w-[256px] h-[51px] flex flex-col justify-between">

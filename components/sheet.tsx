@@ -48,19 +48,19 @@ export function SheetSide() {
             </SheetHeader>
             <ul className="flex flex-col gap-[20px] pt-5 font-medium text-[14px] text-[#636270]">
               <Link href={"/"}>
-                <li className="text-[#007580]">Home</li>
-              </Link>
-              <Link href={"/cart"}>
-                <li>Shop</li>
-              </Link>
-              <Link href={"/product"}>
-                <li>Product</li>
+                <li className="hover:text-[#007580]">Home</li>
               </Link>
               <Link href={"/singleproduct"}>
-                <li>Pages</li>
+                <li className="hover:text-[#007580]">Shop</li>
+              </Link>
+              <Link href={"/product"}>
+                <li className="hover:text-[#007580]">Product</li>
               </Link>
               <Link href={"#"}>
-                <li>About</li>
+                <li className="hover:text-[#007580]">Pages</li>
+              </Link>
+              <Link href={"/aboutus"}>
+                <li className="hover:text-[#007580]">About</li>
               </Link>
             </ul>
           </SheetContent>

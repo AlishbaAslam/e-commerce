@@ -18,7 +18,7 @@ const FeaturedProducts = () => {
       <div
         className={`${inter.className} max-w-[1200px] mx-auto flex flex-col space-y-9 lg:space-y-6 justify-between px-2 lg:px-0`}
       >
-        <div className="font-bold mx-auto lg:ml-6 xl:ml-0 text-[32px] leading-[35.2px] text-[#272343] capitalize">
+        <div className="font-semibold mx-auto lg:ml-6 xl:ml-0 text-[32px] leading-[35.2px] text-[#272343] capitalize">
           Featured Products
         </div>
         <div className="flex flex-col lg:grid-cols-4 lg:grid-rows-1 sm:grid sm:grid-cols-2 sm:grid-rows-2 sm:place-items-center justify-between items-center w-full gap-8 sm:gap-5 lg:gap-0 xl:gap-6 md:px-20 lg:px-0">
@@ -27,6 +27,7 @@ const FeaturedProducts = () => {
               className="rounded-[6px] w-[312px] h-[280px] xl:w-[312px] xl:h-[280px] lg:w-[312px] lg:h-[240px]"
               src={product1}
               alt="product"
+              quality={100}
             />
             <div className="h-[51px] flex gap-[10px] items-center">
               <div className="w-[256px] h-[51px] flex flex-col justify-between">
@@ -52,6 +53,7 @@ const FeaturedProducts = () => {
               className="rounded-[6px] w-[312px] h-[280px] xl:w-[312px] xl:h-[280px] lg:w-[312px] lg:h-[240px]"
               src={product2}
               alt="product"
+              quality={100}
             />
             <div className="h-[51px] flex gap-[10px] items-center">
               <div className="w-[256px] h-[51px] flex flex-col justify-between">
@@ -80,6 +82,7 @@ const FeaturedProducts = () => {
               className="rounded-[6px] w-[312px] h-[280px] xl:w-[312px] xl:h-[280px] lg:w-[312px] lg:h-[240px]"
               src={product3}
               alt="product"
+              quality={100}
             />
             <div className="h-[51px] flex gap-[10px] items-center">
               <div className="w-[256px] h-[51px] flex flex-col justify-between">
@@ -102,6 +105,7 @@ const FeaturedProducts = () => {
               className="rounded-[6px] w-[312px] h-[280px] xl:w-[312px] xl:h-[280px] lg:w-[312px] lg:h-[240px]"
               src={product4}
               alt="product"
+              quality={100}
             />
             <div className="h-[51px] flex gap-[10px] items-center">
               <div className="w-[256px] h-[51px] flex flex-col justify-between">

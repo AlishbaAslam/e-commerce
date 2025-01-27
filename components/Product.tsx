@@ -43,36 +43,42 @@ const Product = () => {
               <Image className='h-[230px] w-[230px] lg:h-[160px] lg:w-[157px] xl:h-[186px] xl:w-[186px] rounded-[6px]'
               src={chair2}
               alt='image'
+              quality={100}
                />
             </li>
             <li>
               <Image className='h-[230px] w-[230px] lg:h-[160px] lg:w-[157px] xl:h-[186px] xl:w-[186px] rounded-[6px]'
               src={chair1}
               alt='image'
+              quality={100}
                />
             </li>
             <li>
               <Image className='h-[230px] w-[230px] lg:h-[160px] lg:w-[157px] xl:h-[186px] xl:w-[186px] rounded-[6px]'
               src={product2}
               alt='image'
+              quality={100}
                />
             </li>
             <li>
               <Image className='h-[230px] w-[230px] lg:h-[160px] lg:w-[157px] xl:h-[186px] xl:w-[186px] rounded-[6px]'
               src={product1}
               alt='image'
+              quality={100}
                />
             </li>
             <li>
               <Image className='h-[230px] w-[230px] lg:h-[160px] lg:w-[157px] xl:h-[186px] xl:w-[186px] rounded-[6px]'
               src={item1}
               alt='image'
+              quality={100}
                />
             </li>
             <li>
               <Image className='h-[230px] w-[230px] lg:h-[160px] lg:w-[157px] xl:h-[186px] xl:w-[186px] rounded-[6px]'
               src={chair3}
               alt='image'
+              quality={100}
                />
             </li>
           </ul>

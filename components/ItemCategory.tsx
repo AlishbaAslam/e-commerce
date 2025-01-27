@@ -23,17 +23,17 @@ const ItemCategory = () => {
               Explore new and popular styles
             </h2>
             <div className="lg:ml-[50px] ml-[40px]">
-              <Image className="h-[400px] w-[320px] sm:h-[400px] sm:w-[300px] md:h-[400px] md:w-[340px] lg:h-[610px] lg:w-[480px] xl:h-[610px] xl:w-[580px]" src={item1} alt="item" />
+              <Image className="h-[400px] w-[320px] sm:h-[400px] sm:w-[300px] md:h-[400px] md:w-[340px] lg:h-[610px] lg:w-[480px] xl:h-[610px] xl:w-[580px]" src={item1} alt="item" quality={100} />
             </div>
           </div>
           <div className="flex flex-col lg:h-[610px] xl:w-[639px] justify-between space-y-3 lg:space-y-0">
           <div className="flex gap-3 lg:gap-6">
-            <Image className="h-[180px] w-[145px] sm:h-[195px] sm:w-[130px] md:w-[160px] lg:h-[292px] lg:w-[190px] xl:h-[292px] xl:w-[295px]" src={item2} alt="item" />
-            <Image className="h-[180px] w-[145px] sm:h-[195px] sm:w-[130px] md:w-[160px] lg:h-[292px] lg:w-[190px] xl:h-[292px] xl:w-[295px]" src={item3} alt="item" />
+            <Image className="h-[180px] w-[145px] sm:h-[195px] sm:w-[130px] md:w-[160px] lg:h-[292px] lg:w-[190px] xl:h-[292px] xl:w-[295px]" src={item2} alt="item" quality={100} />
+            <Image className="h-[180px] w-[145px] sm:h-[195px] sm:w-[130px] md:w-[160px] lg:h-[292px] lg:w-[190px] xl:h-[292px] xl:w-[295px]" src={item3} alt="item" quality={100} />
           </div>
           <div className="flex gap-3 lg:gap-6">
-            <Image className="h-[180px] w-[145px] sm:h-[195px] sm:w-[130px] md:w-[160px] lg:h-[292px] lg:w-[190px] xl:h-[292px] xl:w-[295px]" src={item4} alt="item" />
-            <Image className="h-[180px] w-[145px] sm:h-[195px] sm:w-[130px] md:w-[160px] lg:h-[292px] lg:w-[190px] xl:h-[292px] xl:w-[295px]" src={item3} alt="item" />
+            <Image className="h-[180px] w-[145px] sm:h-[195px] sm:w-[130px] md:w-[160px] lg:h-[292px] lg:w-[190px] xl:h-[292px] xl:w-[295px]" src={item4} alt="item" quality={100} />
+            <Image className="h-[180px] w-[145px] sm:h-[195px] sm:w-[130px] md:w-[160px] lg:h-[292px] lg:w-[190px] xl:h-[292px] xl:w-[295px]" src={item3} alt="item" quality={100} />
           </div>
           </div>
       </div>

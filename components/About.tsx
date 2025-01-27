@@ -43,6 +43,7 @@ const Faq = () => {
             <Image
               src={imageblock}
               alt="image"
+              quality={100}
               className="lg:h-[478px] h-[350px] sm:h-[340px]"
             />
           </div>
@@ -109,6 +110,7 @@ const Faq = () => {
                 <Image
                   src={picture1}
                   alt="image"
+                  quality={100}
                   className="lg:h-[375px] h-[270px]"
                 />
                 <p className="font-normal lg:text-[20px] text-[16px] leading-[28px] text-[#2A254B]">
@@ -124,6 +126,7 @@ const Faq = () => {
                 <Image
                   src={picture2}
                   alt="image"
+                  quality={100}
                   className="lg:h-[375px] h-[270px]"
                 />
                 <p className="font-normal lg:text-[20px] text-[16px] leading-[28px] text-[#2A254B]">
@@ -137,6 +140,7 @@ const Faq = () => {
                 <Image
                   src={picture3}
                   alt="image"
+                  quality={100}
                   className="lg:h-[375px] h-[270px]"
                 />
                 <p className="font-normal lg:text-[20px] text-[16px] leading-[28px] text-[#2A254B]">

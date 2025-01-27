@@ -20,6 +20,7 @@ const CompanyLogo = () => {
                 <Image className="object-fill"
                 src={zapier}
                 alt="logo"
+                quality={100}
                 />
             </li>
           </Link>
@@ -28,6 +29,7 @@ const CompanyLogo = () => {
                 <Image className="object-fil"
                 src={pipedrive}
                 alt="logo"
+                quality={100}
                 />
             </li>
           </Link>
@@ -36,6 +38,7 @@ const CompanyLogo = () => {
                 <Image className="object-fill"
                 src={cib}
                 alt="logo"
+                quality={100}
                 />
             </li>
           </Link>
@@ -44,6 +47,7 @@ const CompanyLogo = () => {
                 <Image className="object-fill"
                 src={zlogo}
                 alt="logo"
+                quality={100}
                 />
             </li>
           </Link>
@@ -52,6 +56,7 @@ const CompanyLogo = () => {
                 <Image className="object-fill"
                 src={burnt}
                 alt="logo"
+                quality={100}
                 />
             </li>
           </Link>
@@ -60,6 +65,7 @@ const CompanyLogo = () => {
                 <Image className="object-fill"
                 src={panda}
                 alt="logo"
+                quality={100}
                 />
             </li>
           </Link>
@@ -68,6 +74,7 @@ const CompanyLogo = () => {
                 <Image className="object-fill"
                 src={moz}
                 alt="logo"
+                quality={100}
                 />
             </li>
           </Link>

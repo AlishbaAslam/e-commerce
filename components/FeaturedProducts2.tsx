@@ -33,6 +33,7 @@ const FeaturedProducts = () => {
               className="w-[240px] h-[253px] sm:w-[210px] sm:h-[225px] lg:w-[270px] lg:h-[230px] xl:w-[240px] xl:h-[240px]"
               src={item5}
               alt="product"
+              quality={100}
             />
             <div className="h-[21px] flex justify-between justify-self-end">
                 <p className="font-normal text-[16px] leading-[20.8px] text-[#272343]">
@@ -48,6 +49,7 @@ const FeaturedProducts = () => {
               className="w-[240px] h-[253px] lg:w-[270px] lg:h-[230px] sm:w-[210px] sm:h-[225px] xl:w-[240px] xl:h-[240px]"
               src={product1}
               alt="product"
+              quality={100}
             />
             <div className="h-[21px] flex justify-between justify-self-end">
                 <p className="font-normal text-[16px] leading-[20.8px] text-[#272343]">
@@ -63,6 +65,7 @@ const FeaturedProducts = () => {
               className="w-[240px] h-[253px] sm:w-[210px] sm:h-[225px] lg:w-[270px] lg:h-[230px] xl:w-[240px] xl:h-[240px]"
               src={chair3}
               alt="product"
+              quality={100}
             />
             <div className="h-[21px] flex justify-between justify-self-end">
                 <p className="font-normal text-[16px] leading-[20.8px] text-[#272343]">
@@ -78,6 +81,7 @@ const FeaturedProducts = () => {
               className="w-[240px] h-[253px] sm:w-[210px] sm:h-[225px] lg:w-[270px] lg:h-[230px] xl:w-[240px] xl:h-[240px]"
               src={product3}
               alt="product"
+              quality={100}
             />
             <div className="h-[21px] flex justify-between justify-self-end">
                 <p className="font-normal text-[16px] leading-[20.8px] text-[#272343]">
@@ -93,6 +97,7 @@ const FeaturedProducts = () => {
               className="w-[240px] h-[253px] sm:w-[210px] sm:h-[225px] lg:w-[270px] lg:h-[230px] xl:w-[240px] xl:h-[240px]"
               src={chair1}
               alt="product"
+              quality={100}
             />
             <div className="h-[21px] flex justify-between justify-self-end">
                 <p className="font-normal text-[16px] leading-[20.8px] text-[#272343]">

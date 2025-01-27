@@ -17,7 +17,7 @@ const TopCategories = () => {
     <div
       className={`${inter.className} max-w-[1200px] lg:h-[508px] lg:space-y-0 space-y-7 mx-auto flex flex-col justify-between px-2 xl:px-0`}
     >
-      <div className="font-semibold h-[35px] text-[32px] leading-[35.2px] text-[#272343] capitalize lg:self-start self-center">
+      <div className="font-semibold text-[32px] leading-[35.2px] text-[#272343] capitalize lg:self-start self-center">
       Top categories
       </div>
       <div className="flex lg:flex-row flex-col md:flex-row justify-between items-center w-full lg:gap-0 gap-5">
@@ -26,6 +26,7 @@ const TopCategories = () => {
             className="rounded-[10px] xl:w-[424px] lg:h-[424px] lg:w-[320px] w-[280px] h-[330px]"
             src={chair1}
             alt="product"
+            quality={100}
           />
           <div className="absolute bottom-0 w-full h-[85px] rounded-bl-[10px] rounded-br-[10px] flex flex-col z-50 bg-black/70 gap-[8px] p-[20px]">
             <p className="text-[20px] leading-[22px] text-[#FFFFFF]">Wing Chair</p>
@@ -37,6 +38,7 @@ const TopCategories = () => {
             className="rounded-[10px] xl:w-[424px] lg:h-[424px] lg:w-[320px] w-[280px] h-[330px]"
             src={chair2}
             alt="product"
+            quality={100}
           />
           <div className="absolute bottom-0 w-full h-[85px] rounded-bl-[10px] rounded-br-[10px] flex flex-col z-50 bg-black/70 gap-[8px] p-[20px]">
             <p className="text-[20px] leading-[22px] text-[#FFFFFF]">Wooden Chair</p>
@@ -48,6 +50,7 @@ const TopCategories = () => {
             className="rounded-[10px] xl:w-[424px] lg:h-[424px] lg:w-[320px] w-[280px] h-[330px]"
             src={chair3}
             alt="product"
+            quality={100}
           />
           <div className="absolute bottom-0 w-full h-[85px] rounded-bl-[10px] rounded-br-[10px] flex flex-col z-50 bg-black/70 gap-[8px] p-[20px]">
             <p className="text-[20px] leading-[22px] text-[#FFFFFF]">Desk Chair</p>

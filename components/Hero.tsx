@@ -28,6 +28,7 @@ const Hero = () => {
                 <Image className='lg:w-[434px] lg:h-[584px] md:w-[420px] md:h-[420px] hidden md:block'
                 src={hero}
                 alt='hero'
+                quality={100}
                  />
             </div>
     </div>

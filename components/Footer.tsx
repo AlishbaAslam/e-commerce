@@ -56,20 +56,20 @@ const Footer = () => {
             interdum. Cras egestas purus
           </p>
           <ul className="w-fit h-[38px] gap-[4px] flex items-center">
-            <li className="h-[38px] w-[38px] rounded-full border-[1px] flex items-center justify-center border-[#007580]">
-              <FaFacebook className="text-[#6b9598]" />
+            <li className="h-[38px] w-[38px] border-[1px] flex items-center justify-center hover:rounded-full hover:border-[#007580] border-white">
+              <FaFacebook className="hover:text-[#6b9598]" />
             </li>
-            <li className="h-[38px] w-[38px] flex items-center justify-center">
-              <FaTwitter />
+            <li className="h-[38px] w-[38px] border-[1px] flex items-center justify-center hover:rounded-full hover:border-[#007580] border-white">
+              <FaTwitter className="hover:text-[#6b9598]" />
             </li>
-            <li className="h-[38px] w-[38px] flex items-center justify-center">
-              <FaInstagram />
+            <li className="h-[38px] w-[38px] border-[1px] flex items-center justify-center hover:rounded-full hover:border-[#007580] border-white">
+              <FaInstagram className="hover:text-[#6b9598]" />
             </li>
-            <li className="h-[38px] w-[38px] flex items-center justify-center">
-              <FaPinterest />
+            <li className="h-[38px] w-[38px] border-[1px] flex items-center justify-center hover:rounded-full hover:border-[#007580] border-white">
+              <FaPinterest className="hover:text-[#6b9598]" />
             </li>
-            <li className="h-[38px] w-[38px] flex items-center justify-center">
-              <FaYoutube />
+            <li className="h-[38px] w-[38px] border-[1px] flex items-center justify-center hover:rounded-full hover:border-[#007580] border-white">
+              <FaYoutube className="hover:text-[#6b9598]" />
             </li>
           </ul>
         </div>

@@ -34,6 +34,7 @@ const Cart = () => {
               className="lg:w-[150px] lg:h-[150px] w-[160px] h-[120px] sm:w-[150px] sm:h-[150px]"
               src={item1}
               alt="product"
+              quality={100}
               />
               </div>
               <div className='flex flex-col justify-between xl:w-[600px] lg:w-[554px] sm:w-3/4 h-full w-full'>
@@ -68,6 +69,7 @@ const Cart = () => {
               className="lg:w-[150px] lg:h-[150px] w-[160px] h-[120px] sm:w-[150px] sm:h-[150px]"
               src={cart}
               alt="product"
+              quality={100}
               />
               </div>
               <div className='flex flex-col justify-between xl:w-[600px] lg:w-[554px] sm:w-3/4 h-full w-full'>
