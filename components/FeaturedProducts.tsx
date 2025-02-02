@@ -5,7 +5,7 @@ import { CiShoppingCart } from "react-icons/ci";
 import { Inter } from "next/font/google";
 import { Product } from "@/types/products";
 import { client } from "@/sanity/lib/client";
-import { allProducts, four } from "@/sanity/lib/queries";
+import { four } from "@/sanity/lib/queries";
 import { urlFor } from "@/sanity/lib/image";
 
 const inter = Inter({
