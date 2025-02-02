@@ -43,7 +43,7 @@ const FeaturedProducts = () => {
                   </p>
                 </span>
               </div>
-              <button className="h-[44px] w-[44px] bg-[#029FAE] justify-items-center rounded-lg">
+              <button className="h-[44px] w-[44px] bg-[#029FAE] flex justify-center items-center rounded-lg">
                 <CiShoppingCart className="h-[24px] w-[24px]" />
               </button>
             </div>
@@ -72,7 +72,7 @@ const FeaturedProducts = () => {
                   </p>
                 </span>
               </div>
-              <button className="h-[44px] w-[44px] bg-[#F0F2F3] justify-items-center rounded-lg">
+              <button className="h-[44px] w-[44px] bg-[#F0F2F3] flex justify-center items-center rounded-lg">
                 <CiShoppingCart className="h-[24px] w-[24px]" />
               </button>
             </div>
@@ -98,7 +98,7 @@ const FeaturedProducts = () => {
                   </p>
                 </span>
               </div>
-              <button className="h-[44px] w-[44px] bg-[#F0F2F3] justify-items-center rounded-lg">
+              <button className="h-[44px] w-[44px] bg-[#F0F2F3] flex justify-center items-center rounded-lg">
                 <CiShoppingCart className="h-[24px] w-[24px]" />
               </button>
             </div>
@@ -121,7 +121,7 @@ const FeaturedProducts = () => {
                   </p>
                 </span>
               </div>
-              <button className="h-[44px] w-[44px] bg-[#F0F2F3] justify-items-center rounded-lg">
+              <button className="h-[44px] w-[44px] bg-[#F0F2F3] flex justify-center items-center rounded-lg">
                 <CiShoppingCart className="h-[24px] w-[24px]" />
               </button>
             </div>
@@ -146,7 +146,7 @@ const FeaturedProducts = () => {
                   </p>
                 </span>
               </div>
-              <button className="h-[44px] w-[44px] bg-[#F0F2F3] justify-items-center rounded-lg">
+              <button className="h-[44px] w-[44px] bg-[#F0F2F3] flex justify-center items-center rounded-lg">
                 <CiShoppingCart className="h-[24px] w-[24px]" />
               </button>
             </div>
@@ -175,7 +175,7 @@ const FeaturedProducts = () => {
                   </p>
                 </span>
               </div>
-              <button className="h-[44px] w-[44px] bg-[#F0F2F3] justify-items-center rounded-lg">
+              <button className="h-[44px] w-[44px] bg-[#F0F2F3] flex justify-center items-center rounded-lg">
                 <CiShoppingCart className="h-[24px] w-[24px]" />
               </button>
             </div>
@@ -201,7 +201,7 @@ const FeaturedProducts = () => {
                   </p>
                 </span>
               </div>
-              <button className="h-[44px] w-[44px] bg-[#F0F2F3] justify-items-center rounded-lg">
+              <button className="h-[44px] w-[44px] bg-[#F0F2F3] flex justify-center items-center rounded-lg">
                 <CiShoppingCart className="h-[24px] w-[24px]" />
               </button>
             </div>
@@ -224,7 +224,7 @@ const FeaturedProducts = () => {
                   </p>
                 </span>
               </div>
-              <button className="h-[44px] w-[44px] bg-[#F0F2F3] justify-items-center rounded-lg">
+              <button className="h-[44px] w-[44px] bg-[#F0F2F3] flex justify-center items-center rounded-lg">
                 <CiShoppingCart className="h-[24px] w-[24px]" />
               </button>
             </div>
