@@ -21,7 +21,7 @@ const FeaturedProducts = () => {
       <div
         className={`${inter.className} max-w-[1200px] mx-auto flex flex-col lg:space-y-10 sm:space-y-6 space-y-8 justify-between px-2 lg:px-0`}
       >
-        <div className="font-bold mx-auto text-[32px] leading-[35.2px] text-[#272343] capitalize">
+        <div className="font-semibold mx-auto text-[32px] leading-[35.2px] text-[#272343] capitalize">
           Our Products
         </div>
         <div className="flex flex-col lg:grid-cols-4 lg:grid-rows-1 sm:grid sm:grid-cols-2 sm:grid-rows-2 sm:place-items-center justify-between items-center w-full gap-8 sm:gap-5 lg:gap-0 xl:gap-6 md:px-20 lg:px-0">
